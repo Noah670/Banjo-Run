@@ -3,7 +3,7 @@ Banjo Run is a 2D Platformer game where you are must reach the top of the Summit
 
 Banjo Run uses the Godot engine.
 
-![alt text](https://raw.githubusercontent.com/Noah670/Banjo-Run/blob/master/Windows/BanjoRun.png)
+![alt text](https://github.com/Noah670/Banjo-Run/blob/master/Windows/BanjoRun.png)
 
 The MIT License (MIT)
 
