@@ -1,3 +1,2 @@
-#https://github.com/Noah670/Banjo-Run/releases
-
-This site was built using [GitHub Pages](https://pages.github.com/).
+## Windows 
+[v1.0 release](https://github.com/Noah670/Banjo-Run/releases/tag/V1.0)
