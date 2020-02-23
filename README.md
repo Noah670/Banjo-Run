@@ -1,5 +1,5 @@
 # Banjo-Run
-Banjo Run is a 2d Platformer game where you are trying to save Banjo by reaching the top of the Summit!
+Banjo Run is a 2D Platformer game where you are must reach the top of the Summit to save Banjo!
 
 Banjo Run uses the Godot engine.
 
