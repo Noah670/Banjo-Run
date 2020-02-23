@@ -5,7 +5,6 @@ Banjo Run uses the Godot engine.
 
 # Releases
 ## Windows 
-a
+[v1.0 release](https://github.com/Noah670/Banjo-Run/releases/tag/V1.0)
 ## Mac OSX
-a
-[I'm an inline-style link](https://www.google.com)
+[v1.0 release](https://github.com/Noah670/Banjo-Run/releases/tag/v1.0)
